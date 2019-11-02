@@ -1,0 +1,92 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway|Pacifico|Sarina|Montserrat|Poppins|Poiret+One&display=swap');
+@import url('footer.css');
+@import url('contact.css');
+@import url('projects.css');
+@import url('about.css');
+@import url('navbar.css');
+
+
+* {
+	padding: 0;
+	margin: 0;
+	scroll-behavior: smooth;
+	box-sizing: content-box;
+	transition-duration: .3s;
+}
+
+
+/*--------------Container----------*/
+.container {
+	width: 100%;
+	height: auto;
+}
+
+
+/*----------------Home----------------*/
+.home {
+	width: 100%;
+	height: 100vh;
+	background-color: white;
+	background-image: url("../images/bg.png");
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-size: 100% auto;
+}
+
+.intro-text {
+	text-align: center;
+	width: 100%;
+	position: absolute;
+	top: 25vh;
+}
+
+.intro-text p {
+	margin: 0;
+	padding: 2rem;
+	font-family: 'Poppins';
+	font-weight: bold;
+	font-size: 2.7rem;
+	color: #262626;
+}
+
+#name-line {
+	font-size: 2rem;
+	padding-bottom: 4rem;
+}
+
+#my-name {
+	font-size: 4rem;
+	font-family: 'Montserrat';
+	font-weight: bold;
+	color: #00c99e;
+}
+
+.intro-text a {
+	text-decoration: none;
+	padding: .5rem 1.5rem;
+	font-size: 1.1rem;
+	font-family: 'Poppins';
+	font-weight: bold;
+	color: #262626;
+	border-style: solid;
+	border-color: #262626;
+	border-width: .1rem;
+}
+
+.intro-text a:hover {
+	text-decoration: none;
+	transition-duration: .5s;
+	background-color: #00c99e;
+	border-color: #00c99e;
+	color: white;
+}
+
+.highlight2 {
+	width: 8.5vw;
+	height: .3rem;
+	background-color: #262626;
+	padding: auto;
+	margin-bottom: 7vh;
+}
+
