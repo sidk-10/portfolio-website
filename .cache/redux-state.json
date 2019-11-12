@@ -1,0 +1,1999 @@
+{
+  "nodes": {
+    "SitePage /dev-404-page/": {
+      "jsonName": "dev-404-page-5f9",
+      "internalComponentName": "ComponentDev404Page",
+      "path": "/dev-404-page/",
+      "component": "/home/siddharth/Desktop/projects/github projects/portfolio-website/.cache/dev-404-page.js",
+      "componentChunkName": "component---cache-dev-404-page-js",
+      "context": {},
+      "pluginCreator___NODE": "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5",
+      "pluginCreatorId": "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5",
+      "componentPath": "/home/siddharth/Desktop/projects/github projects/portfolio-website/.cache/dev-404-page.js",
+      "id": "SitePage /dev-404-page/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "f1e3cd6a413a052ad890b2177d91baf1",
+        "description": "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5": {
+      "resolve": "/home/siddharth/Desktop/projects/github projects/portfolio-website/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "id": "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5",
+      "name": "dev-404-page",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "createPagesStatefully"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/home/siddharth/Desktop/projects/github projects/portfolio-website/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "packageJson": {
+        "name": "dev-404-page",
+        "description": "Internal plugin to add a 404 page in development with helpful information",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "91e1fd820d6670c1afeaa70ad733bd9c",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "1fc32581-893a-55e8-8927-bcd667e2b700": {
+      "resolve": "/home/siddharth/Desktop/projects/github projects/portfolio-website/node_modules/gatsby/dist/internal-plugins/load-babel-config",
+      "id": "1fc32581-893a-55e8-8927-bcd667e2b700",
+      "name": "load-babel-config",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onPreBootstrap"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/home/siddharth/Desktop/projects/github projects/portfolio-website/node_modules/gatsby/dist/internal-plugins/load-babel-config",
+      "packageJson": {
+        "name": "load-babel-config",
+        "description": "Internal plugin that handles loading Babel configs",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "a63f63da9d91c8d5b28e9179a9596088",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "a5079d69-ba80-53dc-82f9-0f440bd5448c": {
+      "resolve": "/home/siddharth/Desktop/projects/github projects/portfolio-website/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "id": "a5079d69-ba80-53dc-82f9-0f440bd5448c",
+      "name": "internal-data-bridge",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "sourceNodes",
+        "onCreatePage"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/home/siddharth/Desktop/projects/github projects/portfolio-website/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "packageJson": {
+        "name": "internal-data-bridge",
+        "description": "An internal Gatsby plugin which creates data nodes from internal data",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "06c27fc7bae3a49ec5ef99351e901790",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "f795702c-a3b8-5a88-88ee-5d06019d44fa": {
+      "resolve": "/home/siddharth/Desktop/projects/github projects/portfolio-website/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "id": "f795702c-a3b8-5a88-88ee-5d06019d44fa",
+      "name": "prod-404",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreatePage"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/home/siddharth/Desktop/projects/github projects/portfolio-website/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "packageJson": {
+        "name": "prod-404",
+        "description": "Internal plugin to detect various flavors of 404 pages and ensure there's a 404.html path created as well to ensure compatability with static hosts",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "d8cd738c1c7bce4a0f1b0b879655fb27",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "84dad27f-1d44-51fc-ac56-4db2e5222995": {
+      "resolve": "/home/siddharth/Desktop/projects/github projects/portfolio-website/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "id": "84dad27f-1d44-51fc-ac56-4db2e5222995",
+      "name": "query-runner",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreatePage"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/home/siddharth/Desktop/projects/github projects/portfolio-website/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "packageJson": {
+        "name": "query-runner",
+        "description": "Internal plugin for running queries",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "0cbb07fb135b88954ca3c7e99f7af070",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "6f4b2fa9-66b5-5205-a03f-140005a2cfe5": {
+      "resolve": "/home/siddharth/Desktop/projects/github projects/portfolio-website/node_modules/gatsby/dist/internal-plugins/webpack-theme-component-shadowing",
+      "id": "6f4b2fa9-66b5-5205-a03f-140005a2cfe5",
+      "name": "webpack-theme-component-shadowing",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreateWebpackConfig"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/home/siddharth/Desktop/projects/github projects/portfolio-website/node_modules/gatsby/dist/internal-plugins/webpack-theme-component-shadowing",
+      "packageJson": {
+        "name": "webpack-theme-component-shadowing",
+        "description": "An internal Gatsby plugin which handles configuring webpack to ensure theme components fall back from the user's site to theme modules.",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Chris Biscardi <chris@christopherbiscardi.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "808fd11a35184a148468ead9769fb78f",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "1943ff2f-9c0c-558d-8d0c-006603e8106a": {
+      "resolve": "/home/siddharth/Desktop/projects/github projects/portfolio-website/node_modules/gatsby-plugin-react-helmet",
+      "id": "1943ff2f-9c0c-558d-8d0c-006603e8106a",
+      "name": "gatsby-plugin-react-helmet",
+      "version": "3.0.5",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [],
+      "browserAPIs": [],
+      "ssrAPIs": [
+        "onRenderBody"
+      ],
+      "pluginFilepath": "/home/siddharth/Desktop/projects/github projects/portfolio-website/node_modules/gatsby-plugin-react-helmet",
+      "packageJson": {
+        "name": "gatsby-plugin-react-helmet",
+        "description": "Manage document head data with react-helmet. Provides drop-in server rendering support for Gatsby.",
+        "version": "3.0.5",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "favicon",
+          "react-helmet",
+          "seo",
+          "document",
+          "head",
+          "title",
+          "meta",
+          "link",
+          "script",
+          "base",
+          "noscript",
+          "style"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "matthews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.3"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": ">2.0.0-alpha"
+          },
+          {
+            "name": "react-helmet",
+            "version": ">=5.1.3"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "3f1801bdddac6544065ea9c6e0454e87",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "da88c164-bba2-5982-a88b-c6863b99a2ae": {
+      "resolve": "/home/siddharth/Desktop/projects/github projects/portfolio-website/node_modules/gatsby-source-filesystem",
+      "id": "da88c164-bba2-5982-a88b-c6863b99a2ae",
+      "name": "gatsby-source-filesystem",
+      "version": "2.0.12",
+      "pluginOptions": {
+        "plugins": [],
+        "name": "images",
+        "path": "/home/siddharth/Desktop/projects/github projects/portfolio-website/src/images"
+      },
+      "nodeAPIs": [
+        "sourceNodes",
+        "setFieldsOnGraphQLNodeType"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/home/siddharth/Desktop/projects/github projects/portfolio-website/node_modules/gatsby-source-filesystem",
+      "packageJson": {
+        "name": "gatsby-source-filesystem",
+        "description": "Gatsby plugin which parses files within a directory for further parsing by other plugins",
+        "version": "2.0.12",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "better-queue",
+            "version": "^3.8.7"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "chokidar",
+            "version": "^1.7.0"
+          },
+          {
+            "name": "file-type",
+            "version": "^10.2.0"
+          },
+          {
+            "name": "fs-extra",
+            "version": "^5.0.0"
+          },
+          {
+            "name": "got",
+            "version": "^7.1.0"
+          },
+          {
+            "name": "md5-file",
+            "version": "^3.1.1"
+          },
+          {
+            "name": "mime",
+            "version": "^2.2.0"
+          },
+          {
+            "name": "pretty-bytes",
+            "version": "^4.0.2"
+          },
+          {
+            "name": "read-chunk",
+            "version": "^3.0.0"
+          },
+          {
+            "name": "slash",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "valid-url",
+            "version": "^1.0.9"
+          },
+          {
+            "name": "xstate",
+            "version": "^3.1.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.3"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": ">2.0.0-alpha"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "06b634de086afaada4a86bfdd6f43f32",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "da3d06eb-685e-5c77-ae1d-750eb6a2e4a9": {
+      "resolve": "/home/siddharth/Desktop/projects/github projects/portfolio-website/node_modules/gatsby-transformer-sharp",
+      "id": "da3d06eb-685e-5c77-ae1d-750eb6a2e4a9",
+      "name": "gatsby-transformer-sharp",
+      "version": "2.1.9",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreateNode",
+        "setFieldsOnGraphQLNodeType",
+        "onPreExtractQueries"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/home/siddharth/Desktop/projects/github projects/portfolio-website/node_modules/gatsby-transformer-sharp",
+      "packageJson": {
+        "name": "gatsby-transformer-sharp",
+        "description": "Gatsby transformer plugin for images using Sharp",
+        "version": "2.1.9",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "image",
+          "sharp"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "fs-extra",
+            "version": "^4.0.2"
+          },
+          {
+            "name": "potrace",
+            "version": "^2.1.1"
+          },
+          {
+            "name": "probe-image-size",
+            "version": "^4.0.0"
+          },
+          {
+            "name": "sharp",
+            "version": "^0.21.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.3"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^2.0.33"
+          },
+          {
+            "name": "gatsby-plugin-sharp",
+            "version": "^2.0.0-beta.3"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "40305691846ba378c1f67cab89b1c9fa",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "84d6154d-4241-556c-a679-cc8339cac100": {
+      "resolve": "/home/siddharth/Desktop/projects/github projects/portfolio-website/node_modules/gatsby-plugin-sharp",
+      "id": "84d6154d-4241-556c-a679-cc8339cac100",
+      "name": "gatsby-plugin-sharp",
+      "version": "2.0.16",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onPreInit"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/home/siddharth/Desktop/projects/github projects/portfolio-website/node_modules/gatsby-plugin-sharp",
+      "packageJson": {
+        "name": "gatsby-plugin-sharp",
+        "description": "Wrapper of the Sharp image manipulation library for Gatsby plugins",
+        "version": "2.0.16",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "image",
+          "sharp"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "async",
+            "version": "^2.1.2"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "fs-exists-cached",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "fs-extra",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "imagemin",
+            "version": "^6.0.0"
+          },
+          {
+            "name": "imagemin-mozjpeg",
+            "version": "^8.0.0"
+          },
+          {
+            "name": "imagemin-pngquant",
+            "version": "^6.0.0"
+          },
+          {
+            "name": "imagemin-webp",
+            "version": "^5.0.0"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.10"
+          },
+          {
+            "name": "mini-svg-data-uri",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "potrace",
+            "version": "^2.1.1"
+          },
+          {
+            "name": "probe-image-size",
+            "version": "^4.0.0"
+          },
+          {
+            "name": "progress",
+            "version": "^1.1.8"
+          },
+          {
+            "name": "sharp",
+            "version": "^0.21.0"
+          },
+          {
+            "name": "svgo",
+            "version": "^0.7.2"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.3"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": ">2.0.0-alpha"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "04a987be8b901523541e9486941f8999",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "112c12f8-b222-509b-abe0-dfe93a905df9": {
+      "resolve": "/home/siddharth/Desktop/projects/github projects/portfolio-website/node_modules/gatsby-plugin-manifest",
+      "id": "112c12f8-b222-509b-abe0-dfe93a905df9",
+      "name": "gatsby-plugin-manifest",
+      "version": "2.0.12",
+      "pluginOptions": {
+        "plugins": [],
+        "name": "gatsby-starter-default",
+        "short_name": "starter",
+        "start_url": "/",
+        "background_color": "#663399",
+        "theme_color": "#663399",
+        "display": "minimal-ui",
+        "icon": "src/images/gatsby-icon.png"
+      },
+      "nodeAPIs": [
+        "onPostBootstrap"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [
+        "onRenderBody"
+      ],
+      "pluginFilepath": "/home/siddharth/Desktop/projects/github projects/portfolio-website/node_modules/gatsby-plugin-manifest",
+      "packageJson": {
+        "name": "gatsby-plugin-manifest",
+        "description": "Gatsby plugin which adds a manifest.webmanifest to make sites progressive web apps",
+        "version": "2.0.12",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "favicon",
+          "icons",
+          "manifest.webmanifest",
+          "progressive-web-app",
+          "pwa"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "sharp",
+            "version": "^0.21.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.3"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": ">2.0.0-alpha"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "e90b0f8dfc1ce02e0f366890f92637a1",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "7374ebf2-d961-52ee-92a2-c25e7cb387a9": {
+      "resolve": "/home/siddharth/Desktop/projects/github projects/portfolio-website",
+      "id": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "name": "default-site-plugin",
+      "version": "e321807421e91abf509bbcaa4b01a4d0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreateWebpackConfig"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/home/siddharth/Desktop/projects/github projects/portfolio-website",
+      "packageJson": {
+        "name": "gatsby-starter-default",
+        "description": "A simple starter to get up and developing quickly with Gatsby",
+        "version": "0.1.0",
+        "keywords": [
+          "gatsby"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "bootstrap",
+            "version": "^4.2.1"
+          },
+          {
+            "name": "bower",
+            "version": "^1.8.8"
+          },
+          {
+            "name": "gatsby",
+            "version": "^2.0.76"
+          },
+          {
+            "name": "gatsby-image",
+            "version": "^2.0.20"
+          },
+          {
+            "name": "gatsby-plugin-manifest",
+            "version": "^2.0.9"
+          },
+          {
+            "name": "gatsby-plugin-offline",
+            "version": "^2.0.16"
+          },
+          {
+            "name": "gatsby-plugin-react-helmet",
+            "version": "^3.0.2"
+          },
+          {
+            "name": "gatsby-plugin-sharp",
+            "version": "^2.0.14"
+          },
+          {
+            "name": "gatsby-source-filesystem",
+            "version": "^2.0.8"
+          },
+          {
+            "name": "gatsby-transformer-sharp",
+            "version": "^2.1.8"
+          },
+          {
+            "name": "jquery",
+            "version": "^3.3.1"
+          },
+          {
+            "name": "particlesjs",
+            "version": "^2.2.3"
+          },
+          {
+            "name": "prop-types",
+            "version": "^15.6.2"
+          },
+          {
+            "name": "react",
+            "version": "^16.6.3"
+          },
+          {
+            "name": "react-bootstrap",
+            "version": "^0.32.4"
+          },
+          {
+            "name": "react-dom",
+            "version": "^16.6.3"
+          },
+          {
+            "name": "react-helmet",
+            "version": "^5.2.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "prettier",
+            "version": "^1.15.2"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "33a907882d3899e935e005ac67cb9e39",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "fcf4ba1e-7b0e-562a-ac28-e941217a03cb": {
+      "resolve": "/home/siddharth/Desktop/projects/github projects/portfolio-website/node_modules/gatsby-plugin-page-creator",
+      "id": "fcf4ba1e-7b0e-562a-ac28-e941217a03cb",
+      "name": "gatsby-plugin-page-creator",
+      "version": "2.0.5",
+      "pluginOptions": {
+        "plugins": [],
+        "path": "/home/siddharth/Desktop/projects/github projects/portfolio-website/src/pages",
+        "pathCheck": false
+      },
+      "nodeAPIs": [
+        "createPagesStatefully"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/home/siddharth/Desktop/projects/github projects/portfolio-website/node_modules/gatsby-plugin-page-creator",
+      "packageJson": {
+        "name": "gatsby-plugin-page-creator",
+        "description": "Gatsby plugin that automatically creates pages from React components in specified directories",
+        "version": "2.0.5",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "chokidar",
+            "version": "^1.7.0"
+          },
+          {
+            "name": "fs-exists-cached",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "glob",
+            "version": "^7.1.1"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.10"
+          },
+          {
+            "name": "micromatch",
+            "version": "^3.1.10"
+          },
+          {
+            "name": "parse-filepath",
+            "version": "^1.0.1"
+          },
+          {
+            "name": "slash",
+            "version": "^1.0.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.3"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": ">2.0.0-alpha"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "85ffe39d2c26fa20b976233645f9cda2",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Site": {
+      "siteMetadata": {
+        "title": "Siddharth Kulkarni - Portfolio Website",
+        "description": "Get to know about me",
+        "author": "Siddharth Kulkarni - siddharthkulkarni007@outlook.com"
+      },
+      "port": "8000",
+      "host": "localhost",
+      "pathPrefix": "",
+      "polyfill": true,
+      "buildTime": "2019-11-12T07:20:54.889Z",
+      "id": "Site",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "4463334ba0415c1bea44936a994cfbfe",
+        "type": "Site",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "95dc2ed4-a3eb-5fef-876e-9a1b58c6a78e": {
+      "id": "95dc2ed4-a3eb-5fef-876e-9a1b58c6a78e",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "c596bd998d837f05487ad2be23909fe4",
+        "type": "Directory",
+        "description": "Directory \"src/images\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/home/siddharth/Desktop/projects/github projects/portfolio-website/src/images",
+      "relativePath": "",
+      "extension": "",
+      "size": 4096,
+      "prettySize": "4.1 kB",
+      "modifiedTime": "2019-11-02T11:37:16.855Z",
+      "accessTime": "2019-11-12T06:12:07.369Z",
+      "changeTime": "2019-11-02T13:50:19.508Z",
+      "birthTime": "2019-11-02T13:50:19.508Z",
+      "root": "/",
+      "dir": "/home/siddharth/Desktop/projects/github projects/portfolio-website/src",
+      "base": "images",
+      "ext": "",
+      "name": "images",
+      "relativeDirectory": "..",
+      "dev": 2058,
+      "mode": 16877,
+      "nlink": 2,
+      "uid": 1000,
+      "gid": 1000,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 8787299,
+      "blocks": 8,
+      "atimeMs": 1573539127368.6826,
+      "mtimeMs": 1572694636854.655,
+      "ctimeMs": 1572702619507.6338,
+      "birthtimeMs": 1572702619507.6338,
+      "atime": "2019-11-12T06:12:07.369Z",
+      "mtime": "2019-11-02T11:37:16.855Z",
+      "ctime": "2019-11-02T13:50:19.508Z",
+      "birthtime": "2019-11-02T13:50:19.508Z"
+    },
+    "6b27b7c0-0227-597a-bfb2-fbc491853659": {
+      "id": "6b27b7c0-0227-597a-bfb2-fbc491853659",
+      "children": [
+        "d4bfe960-a383-55ca-8aa8-9fec6d8fea3d"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "9db75bcfc82d7f1b2b945027224eba05",
+        "type": "File",
+        "mediaType": "image/png",
+        "description": "File \"src/images/gatsby-icon.png\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/home/siddharth/Desktop/projects/github projects/portfolio-website/src/images/gatsby-icon.png",
+      "relativePath": "gatsby-icon.png",
+      "extension": "png",
+      "size": 2319,
+      "prettySize": "2.32 kB",
+      "modifiedTime": "2019-10-19T08:41:50.962Z",
+      "accessTime": "2019-11-02T13:51:50.203Z",
+      "changeTime": "2019-11-02T13:50:19.504Z",
+      "birthTime": "2019-11-02T13:50:19.504Z",
+      "root": "/",
+      "dir": "/home/siddharth/Desktop/projects/github projects/portfolio-website/src/images",
+      "base": "gatsby-icon.png",
+      "ext": ".png",
+      "name": "gatsby-icon",
+      "relativeDirectory": "",
+      "dev": 2058,
+      "mode": 33204,
+      "nlink": 1,
+      "uid": 1000,
+      "gid": 1000,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 8787302,
+      "blocks": 8,
+      "atimeMs": 1572702710203.3943,
+      "mtimeMs": 1571474510962.371,
+      "ctimeMs": 1572702619503.6335,
+      "birthtimeMs": 1572702619503.6335,
+      "atime": "2019-11-02T13:51:50.203Z",
+      "mtime": "2019-10-19T08:41:50.962Z",
+      "ctime": "2019-11-02T13:50:19.504Z",
+      "birthtime": "2019-11-02T13:50:19.504Z"
+    },
+    "9a203f73-b601-5b24-95b8-cba61d837191": {
+      "id": "9a203f73-b601-5b24-95b8-cba61d837191",
+      "children": [
+        "9084e355-d2ec-5f70-a3b9-5972dd2702b4"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "61a96c78b48018b48fbb6254a93b93f8",
+        "type": "File",
+        "mediaType": "image/png",
+        "description": "File \"src/images/facebook.png\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/home/siddharth/Desktop/projects/github projects/portfolio-website/src/images/facebook.png",
+      "relativePath": "facebook.png",
+      "extension": "png",
+      "size": 4865,
+      "prettySize": "4.87 kB",
+      "modifiedTime": "2019-10-26T08:11:03.213Z",
+      "accessTime": "2019-11-02T13:51:50.203Z",
+      "changeTime": "2019-11-02T13:50:19.504Z",
+      "birthTime": "2019-11-02T13:50:19.504Z",
+      "root": "/",
+      "dir": "/home/siddharth/Desktop/projects/github projects/portfolio-website/src/images",
+      "base": "facebook.png",
+      "ext": ".png",
+      "name": "facebook",
+      "relativeDirectory": "",
+      "dev": 2058,
+      "mode": 33204,
+      "nlink": 1,
+      "uid": 1000,
+      "gid": 1000,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 8787306,
+      "blocks": 16,
+      "atimeMs": 1572702710203.3943,
+      "mtimeMs": 1572077463212.877,
+      "ctimeMs": 1572702619503.6335,
+      "birthtimeMs": 1572702619503.6335,
+      "atime": "2019-11-02T13:51:50.203Z",
+      "mtime": "2019-10-26T08:11:03.213Z",
+      "ctime": "2019-11-02T13:50:19.504Z",
+      "birthtime": "2019-11-02T13:50:19.504Z"
+    },
+    "d2e647fc-0c37-5773-a60e-fa302ed653eb": {
+      "id": "d2e647fc-0c37-5773-a60e-fa302ed653eb",
+      "children": [
+        "37e26a0b-65f6-53b2-9748-62cc60a16a92"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "4a9773549091c227cd2eb82ccd9c5e3a",
+        "type": "File",
+        "mediaType": "image/png",
+        "description": "File \"src/images/gatsby-icon1.png\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/home/siddharth/Desktop/projects/github projects/portfolio-website/src/images/gatsby-icon1.png",
+      "relativePath": "gatsby-icon1.png",
+      "extension": "png",
+      "size": 21212,
+      "prettySize": "21.2 kB",
+      "modifiedTime": "2019-01-15T13:52:24.240Z",
+      "accessTime": "2019-11-02T13:51:50.203Z",
+      "changeTime": "2019-11-02T13:50:19.504Z",
+      "birthTime": "2019-11-02T13:50:19.504Z",
+      "root": "/",
+      "dir": "/home/siddharth/Desktop/projects/github projects/portfolio-website/src/images",
+      "base": "gatsby-icon1.png",
+      "ext": ".png",
+      "name": "gatsby-icon1",
+      "relativeDirectory": "",
+      "dev": 2058,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 1000,
+      "gid": 1000,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 8787313,
+      "blocks": 48,
+      "atimeMs": 1572702710203.3943,
+      "mtimeMs": 1547560344240.487,
+      "ctimeMs": 1572702619503.6335,
+      "birthtimeMs": 1572702619503.6335,
+      "atime": "2019-11-02T13:51:50.203Z",
+      "mtime": "2019-01-15T13:52:24.240Z",
+      "ctime": "2019-11-02T13:50:19.504Z",
+      "birthtime": "2019-11-02T13:50:19.504Z"
+    },
+    "b2563f3d-f64f-5dbf-813e-3945ae417d89": {
+      "id": "b2563f3d-f64f-5dbf-813e-3945ae417d89",
+      "children": [
+        "32c40b56-1f40-574c-8a83-1800155d22dc"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "399f9ec3eb955122435ad9f68aa213ee",
+        "type": "File",
+        "mediaType": "image/png",
+        "description": "File \"src/images/github.png\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/home/siddharth/Desktop/projects/github projects/portfolio-website/src/images/github.png",
+      "relativePath": "github.png",
+      "extension": "png",
+      "size": 12722,
+      "prettySize": "12.7 kB",
+      "modifiedTime": "2019-10-26T08:12:10.161Z",
+      "accessTime": "2019-11-02T13:51:50.203Z",
+      "changeTime": "2019-11-02T13:50:19.504Z",
+      "birthTime": "2019-11-02T13:50:19.504Z",
+      "root": "/",
+      "dir": "/home/siddharth/Desktop/projects/github projects/portfolio-website/src/images",
+      "base": "github.png",
+      "ext": ".png",
+      "name": "github",
+      "relativeDirectory": "",
+      "dev": 2058,
+      "mode": 33204,
+      "nlink": 1,
+      "uid": 1000,
+      "gid": 1000,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 8787311,
+      "blocks": 32,
+      "atimeMs": 1572702710203.3943,
+      "mtimeMs": 1572077530161.235,
+      "ctimeMs": 1572702619503.6335,
+      "birthtimeMs": 1572702619503.6335,
+      "atime": "2019-11-02T13:51:50.203Z",
+      "mtime": "2019-10-26T08:12:10.161Z",
+      "ctime": "2019-11-02T13:50:19.504Z",
+      "birthtime": "2019-11-02T13:50:19.504Z"
+    },
+    "d2c08ce0-d961-559f-90c7-2d5fdefed40c": {
+      "id": "d2c08ce0-d961-559f-90c7-2d5fdefed40c",
+      "children": [
+        "770a742b-0113-5835-84c0-af3409d82d7d"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "2c1a7560c88ea83e6b2593cd07af8ad8",
+        "type": "File",
+        "mediaType": "image/png",
+        "description": "File \"src/images/gmail.png\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/home/siddharth/Desktop/projects/github projects/portfolio-website/src/images/gmail.png",
+      "relativePath": "gmail.png",
+      "extension": "png",
+      "size": 12142,
+      "prettySize": "12.1 kB",
+      "modifiedTime": "2019-10-26T08:12:58.406Z",
+      "accessTime": "2019-11-02T13:51:50.203Z",
+      "changeTime": "2019-11-02T13:50:19.504Z",
+      "birthTime": "2019-11-02T13:50:19.504Z",
+      "root": "/",
+      "dir": "/home/siddharth/Desktop/projects/github projects/portfolio-website/src/images",
+      "base": "gmail.png",
+      "ext": ".png",
+      "name": "gmail",
+      "relativeDirectory": "",
+      "dev": 2058,
+      "mode": 33204,
+      "nlink": 1,
+      "uid": 1000,
+      "gid": 1000,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 8787314,
+      "blocks": 24,
+      "atimeMs": 1572702710203.3943,
+      "mtimeMs": 1572077578405.512,
+      "ctimeMs": 1572702619503.6335,
+      "birthtimeMs": 1572702619503.6335,
+      "atime": "2019-11-02T13:51:50.203Z",
+      "mtime": "2019-10-26T08:12:58.406Z",
+      "ctime": "2019-11-02T13:50:19.504Z",
+      "birthtime": "2019-11-02T13:50:19.504Z"
+    },
+    "9f437056-4ed9-58e3-978b-a8e94543f640": {
+      "id": "9f437056-4ed9-58e3-978b-a8e94543f640",
+      "children": [
+        "413f2fb3-afe3-5b0f-85de-070a42a77e2f"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "5c570427ee23f69853d28aec805eee79",
+        "type": "File",
+        "mediaType": "image/png",
+        "description": "File \"src/images/instagram.png\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/home/siddharth/Desktop/projects/github projects/portfolio-website/src/images/instagram.png",
+      "relativePath": "instagram.png",
+      "extension": "png",
+      "size": 60380,
+      "prettySize": "60.4 kB",
+      "modifiedTime": "2019-10-26T08:10:46.477Z",
+      "accessTime": "2019-11-02T13:51:50.203Z",
+      "changeTime": "2019-11-02T13:50:19.504Z",
+      "birthTime": "2019-11-02T13:50:19.504Z",
+      "root": "/",
+      "dir": "/home/siddharth/Desktop/projects/github projects/portfolio-website/src/images",
+      "base": "instagram.png",
+      "ext": ".png",
+      "name": "instagram",
+      "relativeDirectory": "",
+      "dev": 2058,
+      "mode": 33204,
+      "nlink": 1,
+      "uid": 1000,
+      "gid": 1000,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 8787305,
+      "blocks": 120,
+      "atimeMs": 1572702710203.3943,
+      "mtimeMs": 1572077446476.793,
+      "ctimeMs": 1572702619503.6335,
+      "birthtimeMs": 1572702619503.6335,
+      "atime": "2019-11-02T13:51:50.203Z",
+      "mtime": "2019-10-26T08:10:46.477Z",
+      "ctime": "2019-11-02T13:50:19.504Z",
+      "birthtime": "2019-11-02T13:50:19.504Z"
+    },
+    "9b0775ae-205d-50d6-bb70-2b413d80e48b": {
+      "id": "9b0775ae-205d-50d6-bb70-2b413d80e48b",
+      "children": [
+        "ded58d20-91be-5246-86f6-9c980a1beb36"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "30c453b7f5fbdb09ea0cb42a5dc7a6e5",
+        "type": "File",
+        "mediaType": "image/png",
+        "description": "File \"src/images/linkedin.png\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/home/siddharth/Desktop/projects/github projects/portfolio-website/src/images/linkedin.png",
+      "relativePath": "linkedin.png",
+      "extension": "png",
+      "size": 5823,
+      "prettySize": "5.82 kB",
+      "modifiedTime": "2019-10-26T08:08:56.052Z",
+      "accessTime": "2019-11-02T13:51:50.203Z",
+      "changeTime": "2019-11-02T13:50:19.504Z",
+      "birthTime": "2019-11-02T13:50:19.504Z",
+      "root": "/",
+      "dir": "/home/siddharth/Desktop/projects/github projects/portfolio-website/src/images",
+      "base": "linkedin.png",
+      "ext": ".png",
+      "name": "linkedin",
+      "relativeDirectory": "",
+      "dev": 2058,
+      "mode": 33204,
+      "nlink": 1,
+      "uid": 1000,
+      "gid": 1000,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 8787303,
+      "blocks": 16,
+      "atimeMs": 1572702710203.3943,
+      "mtimeMs": 1572077336052.297,
+      "ctimeMs": 1572702619503.6335,
+      "birthtimeMs": 1572702619503.6335,
+      "atime": "2019-11-02T13:51:50.203Z",
+      "mtime": "2019-10-26T08:08:56.052Z",
+      "ctime": "2019-11-02T13:50:19.504Z",
+      "birthtime": "2019-11-02T13:50:19.504Z"
+    },
+    "12c97a49-6ee7-58eb-927d-bc3add126558": {
+      "id": "12c97a49-6ee7-58eb-927d-bc3add126558",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "40f190bf2a5451831a066aac35bdfa62",
+        "type": "File",
+        "mediaType": "image/svg+xml",
+        "description": "File \"src/images/project.svg\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/home/siddharth/Desktop/projects/github projects/portfolio-website/src/images/project.svg",
+      "relativePath": "project.svg",
+      "extension": "svg",
+      "size": 5485,
+      "prettySize": "5.49 kB",
+      "modifiedTime": "2019-11-02T11:35:29.461Z",
+      "accessTime": "2019-11-02T13:51:50.203Z",
+      "changeTime": "2019-11-02T13:50:19.504Z",
+      "birthTime": "2019-11-02T13:50:19.504Z",
+      "root": "/",
+      "dir": "/home/siddharth/Desktop/projects/github projects/portfolio-website/src/images",
+      "base": "project.svg",
+      "ext": ".svg",
+      "name": "project",
+      "relativeDirectory": "",
+      "dev": 2058,
+      "mode": 33204,
+      "nlink": 1,
+      "uid": 1000,
+      "gid": 1000,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 8787308,
+      "blocks": 16,
+      "atimeMs": 1572702710203.3943,
+      "mtimeMs": 1572694529461.392,
+      "ctimeMs": 1572702619503.6335,
+      "birthtimeMs": 1572702619503.6335,
+      "atime": "2019-11-02T13:51:50.203Z",
+      "mtime": "2019-11-02T11:35:29.461Z",
+      "ctime": "2019-11-02T13:50:19.504Z",
+      "birthtime": "2019-11-02T13:50:19.504Z"
+    },
+    "8c79fcc6-4cb5-5029-a1be-3744f463369d": {
+      "id": "8c79fcc6-4cb5-5029-a1be-3744f463369d",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "0a607ec2b1805d6ab361e309ca53a5c9",
+        "type": "File",
+        "mediaType": "image/svg+xml",
+        "description": "File \"src/images/question.svg\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/home/siddharth/Desktop/projects/github projects/portfolio-website/src/images/question.svg",
+      "relativePath": "question.svg",
+      "extension": "svg",
+      "size": 2275,
+      "prettySize": "2.27 kB",
+      "modifiedTime": "2019-11-02T04:18:44.750Z",
+      "accessTime": "2019-11-02T13:51:50.203Z",
+      "changeTime": "2019-11-02T13:50:19.504Z",
+      "birthTime": "2019-11-02T13:50:19.504Z",
+      "root": "/",
+      "dir": "/home/siddharth/Desktop/projects/github projects/portfolio-website/src/images",
+      "base": "question.svg",
+      "ext": ".svg",
+      "name": "question",
+      "relativeDirectory": "",
+      "dev": 2058,
+      "mode": 33204,
+      "nlink": 1,
+      "uid": 1000,
+      "gid": 1000,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 8787307,
+      "blocks": 8,
+      "atimeMs": 1572702710203.3943,
+      "mtimeMs": 1572668324750.307,
+      "ctimeMs": 1572702619503.6335,
+      "birthtimeMs": 1572702619503.6335,
+      "atime": "2019-11-02T13:51:50.203Z",
+      "mtime": "2019-11-02T04:18:44.750Z",
+      "ctime": "2019-11-02T13:50:19.504Z",
+      "birthtime": "2019-11-02T13:50:19.504Z"
+    },
+    "d4bfe960-a383-55ca-8aa8-9fec6d8fea3d": {
+      "id": "d4bfe960-a383-55ca-8aa8-9fec6d8fea3d",
+      "children": [],
+      "parent": "6b27b7c0-0227-597a-bfb2-fbc491853659",
+      "internal": {
+        "contentDigest": "9db75bcfc82d7f1b2b945027224eba05",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "9084e355-d2ec-5f70-a3b9-5972dd2702b4": {
+      "id": "9084e355-d2ec-5f70-a3b9-5972dd2702b4",
+      "children": [],
+      "parent": "9a203f73-b601-5b24-95b8-cba61d837191",
+      "internal": {
+        "contentDigest": "61a96c78b48018b48fbb6254a93b93f8",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "37e26a0b-65f6-53b2-9748-62cc60a16a92": {
+      "id": "37e26a0b-65f6-53b2-9748-62cc60a16a92",
+      "children": [],
+      "parent": "d2e647fc-0c37-5773-a60e-fa302ed653eb",
+      "internal": {
+        "contentDigest": "4a9773549091c227cd2eb82ccd9c5e3a",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "32c40b56-1f40-574c-8a83-1800155d22dc": {
+      "id": "32c40b56-1f40-574c-8a83-1800155d22dc",
+      "children": [],
+      "parent": "b2563f3d-f64f-5dbf-813e-3945ae417d89",
+      "internal": {
+        "contentDigest": "399f9ec3eb955122435ad9f68aa213ee",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "770a742b-0113-5835-84c0-af3409d82d7d": {
+      "id": "770a742b-0113-5835-84c0-af3409d82d7d",
+      "children": [],
+      "parent": "d2c08ce0-d961-559f-90c7-2d5fdefed40c",
+      "internal": {
+        "contentDigest": "2c1a7560c88ea83e6b2593cd07af8ad8",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "413f2fb3-afe3-5b0f-85de-070a42a77e2f": {
+      "id": "413f2fb3-afe3-5b0f-85de-070a42a77e2f",
+      "children": [],
+      "parent": "9f437056-4ed9-58e3-978b-a8e94543f640",
+      "internal": {
+        "contentDigest": "5c570427ee23f69853d28aec805eee79",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "ded58d20-91be-5246-86f6-9c980a1beb36": {
+      "id": "ded58d20-91be-5246-86f6-9c980a1beb36",
+      "children": [],
+      "parent": "9b0775ae-205d-50d6-bb70-2b413d80e48b",
+      "internal": {
+        "contentDigest": "30c453b7f5fbdb09ea0cb42a5dc7a6e5",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "5994947e-e11c-5b06-8c1a-df29f47dcf36": {
+      "id": "5994947e-e11c-5b06-8c1a-df29f47dcf36",
+      "children": [
+        "4649e785-7b70-586c-8baa-70bcc1ac6192"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "8f35a40403a84631c4125c4f1859c7a6",
+        "type": "File",
+        "mediaType": "image/png",
+        "description": "File \"src/images/twitter.png\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/home/siddharth/Desktop/projects/github projects/portfolio-website/src/images/twitter.png",
+      "relativePath": "twitter.png",
+      "extension": "png",
+      "size": 13575,
+      "prettySize": "13.6 kB",
+      "modifiedTime": "2019-10-26T11:20:29.489Z",
+      "accessTime": "2019-11-02T13:51:50.203Z",
+      "changeTime": "2019-11-02T13:50:19.504Z",
+      "birthTime": "2019-11-02T13:50:19.504Z",
+      "root": "/",
+      "dir": "/home/siddharth/Desktop/projects/github projects/portfolio-website/src/images",
+      "base": "twitter.png",
+      "ext": ".png",
+      "name": "twitter",
+      "relativeDirectory": "",
+      "dev": 2058,
+      "mode": 33204,
+      "nlink": 1,
+      "uid": 1000,
+      "gid": 1000,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 8787304,
+      "blocks": 32,
+      "atimeMs": 1572702710203.3943,
+      "mtimeMs": 1572088829488.809,
+      "ctimeMs": 1572702619503.6335,
+      "birthtimeMs": 1572702619503.6335,
+      "atime": "2019-11-02T13:51:50.203Z",
+      "mtime": "2019-10-26T11:20:29.489Z",
+      "ctime": "2019-11-02T13:50:19.504Z",
+      "birthtime": "2019-11-02T13:50:19.504Z"
+    },
+    "badd47d7-7bde-5d5a-bfee-d7c0be4e1f62": {
+      "id": "badd47d7-7bde-5d5a-bfee-d7c0be4e1f62",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "07121ef2bab25dad6fe4f87df76e1898",
+        "type": "File",
+        "mediaType": "image/svg+xml",
+        "description": "File \"src/images/home_bg.svg\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/home/siddharth/Desktop/projects/github projects/portfolio-website/src/images/home_bg.svg",
+      "relativePath": "home_bg.svg",
+      "extension": "svg",
+      "size": 79310,
+      "prettySize": "79.3 kB",
+      "modifiedTime": "2019-10-23T07:36:05.144Z",
+      "accessTime": "2019-11-02T13:51:50.203Z",
+      "changeTime": "2019-11-02T13:50:19.504Z",
+      "birthTime": "2019-11-02T13:50:19.504Z",
+      "root": "/",
+      "dir": "/home/siddharth/Desktop/projects/github projects/portfolio-website/src/images",
+      "base": "home_bg.svg",
+      "ext": ".svg",
+      "name": "home_bg",
+      "relativeDirectory": "",
+      "dev": 2058,
+      "mode": 33204,
+      "nlink": 1,
+      "uid": 1000,
+      "gid": 1000,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 8787301,
+      "blocks": 160,
+      "atimeMs": 1572702710203.3943,
+      "mtimeMs": 1571816165143.789,
+      "ctimeMs": 1572702619503.6335,
+      "birthtimeMs": 1572702619503.6335,
+      "atime": "2019-11-02T13:51:50.203Z",
+      "mtime": "2019-10-23T07:36:05.144Z",
+      "ctime": "2019-11-02T13:50:19.504Z",
+      "birthtime": "2019-11-02T13:50:19.504Z"
+    },
+    "4649e785-7b70-586c-8baa-70bcc1ac6192": {
+      "id": "4649e785-7b70-586c-8baa-70bcc1ac6192",
+      "children": [],
+      "parent": "5994947e-e11c-5b06-8c1a-df29f47dcf36",
+      "internal": {
+        "contentDigest": "8f35a40403a84631c4125c4f1859c7a6",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "5f8460fd-0cf4-51aa-aa60-e2b8de6116f1": {
+      "id": "5f8460fd-0cf4-51aa-aa60-e2b8de6116f1",
+      "children": [
+        "c0b79878-b04f-56de-834b-561880671046"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "6d91c86c0fde632ba4cd01062fd9ccfa",
+        "type": "File",
+        "mediaType": "image/png",
+        "description": "File \"src/images/gatsby-astronaut.png\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/home/siddharth/Desktop/projects/github projects/portfolio-website/src/images/gatsby-astronaut.png",
+      "relativePath": "gatsby-astronaut.png",
+      "extension": "png",
+      "size": 167273,
+      "prettySize": "167 kB",
+      "modifiedTime": "2019-01-15T13:52:24.240Z",
+      "accessTime": "2019-11-02T13:51:50.203Z",
+      "changeTime": "2019-11-02T13:50:19.504Z",
+      "birthTime": "2019-11-02T13:50:19.504Z",
+      "root": "/",
+      "dir": "/home/siddharth/Desktop/projects/github projects/portfolio-website/src/images",
+      "base": "gatsby-astronaut.png",
+      "ext": ".png",
+      "name": "gatsby-astronaut",
+      "relativeDirectory": "",
+      "dev": 2058,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 1000,
+      "gid": 1000,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 8787312,
+      "blocks": 328,
+      "atimeMs": 1572702710203.3943,
+      "mtimeMs": 1547560344240.487,
+      "ctimeMs": 1572702619503.6335,
+      "birthtimeMs": 1572702619503.6335,
+      "atime": "2019-11-02T13:51:50.203Z",
+      "mtime": "2019-01-15T13:52:24.240Z",
+      "ctime": "2019-11-02T13:50:19.504Z",
+      "birthtime": "2019-11-02T13:50:19.504Z"
+    },
+    "0941114c-2ec7-5aba-9fc6-7f4a1ba59693": {
+      "id": "0941114c-2ec7-5aba-9fc6-7f4a1ba59693",
+      "children": [
+        "aa934e92-1092-5933-8c31-3c89453d6939"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "a4a18ae1a46c0e051752a6f76f730bf8",
+        "type": "File",
+        "mediaType": "image/jpeg",
+        "description": "File \"src/images/dp.jpeg\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/home/siddharth/Desktop/projects/github projects/portfolio-website/src/images/dp.jpeg",
+      "relativePath": "dp.jpeg",
+      "extension": "jpeg",
+      "size": 43912,
+      "prettySize": "43.9 kB",
+      "modifiedTime": "2019-11-02T11:16:13.245Z",
+      "accessTime": "2019-11-02T13:51:50.203Z",
+      "changeTime": "2019-11-02T13:50:19.504Z",
+      "birthTime": "2019-11-02T13:50:19.504Z",
+      "root": "/",
+      "dir": "/home/siddharth/Desktop/projects/github projects/portfolio-website/src/images",
+      "base": "dp.jpeg",
+      "ext": ".jpeg",
+      "name": "dp",
+      "relativeDirectory": "",
+      "dev": 2058,
+      "mode": 33204,
+      "nlink": 1,
+      "uid": 1000,
+      "gid": 1000,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 8787300,
+      "blocks": 88,
+      "atimeMs": 1572702710203.3943,
+      "mtimeMs": 1572693373245.403,
+      "ctimeMs": 1572702619503.6335,
+      "birthtimeMs": 1572702619503.6335,
+      "atime": "2019-11-02T13:51:50.203Z",
+      "mtime": "2019-11-02T11:16:13.245Z",
+      "ctime": "2019-11-02T13:50:19.504Z",
+      "birthtime": "2019-11-02T13:50:19.504Z"
+    },
+    "c0b79878-b04f-56de-834b-561880671046": {
+      "id": "c0b79878-b04f-56de-834b-561880671046",
+      "children": [],
+      "parent": "5f8460fd-0cf4-51aa-aa60-e2b8de6116f1",
+      "internal": {
+        "contentDigest": "6d91c86c0fde632ba4cd01062fd9ccfa",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "aa934e92-1092-5933-8c31-3c89453d6939": {
+      "id": "aa934e92-1092-5933-8c31-3c89453d6939",
+      "children": [],
+      "parent": "0941114c-2ec7-5aba-9fc6-7f4a1ba59693",
+      "internal": {
+        "contentDigest": "a4a18ae1a46c0e051752a6f76f730bf8",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "5f4846c7-4edd-5bb3-b5c4-f1c2a61d156b": {
+      "id": "5f4846c7-4edd-5bb3-b5c4-f1c2a61d156b",
+      "children": [
+        "4fb63dd2-3706-5d0d-aa82-5ecad5375357"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "748803cade241cd6fd66016d7d565628",
+        "type": "File",
+        "mediaType": "image/png",
+        "description": "File \"src/images/bg.png\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/home/siddharth/Desktop/projects/github projects/portfolio-website/src/images/bg.png",
+      "relativePath": "bg.png",
+      "extension": "png",
+      "size": 236292,
+      "prettySize": "236 kB",
+      "modifiedTime": "2019-11-02T08:19:34.830Z",
+      "accessTime": "2019-11-02T13:51:50.199Z",
+      "changeTime": "2019-11-02T13:50:19.504Z",
+      "birthTime": "2019-11-02T13:50:19.504Z",
+      "root": "/",
+      "dir": "/home/siddharth/Desktop/projects/github projects/portfolio-website/src/images",
+      "base": "bg.png",
+      "ext": ".png",
+      "name": "bg",
+      "relativeDirectory": "",
+      "dev": 2058,
+      "mode": 33204,
+      "nlink": 1,
+      "uid": 1000,
+      "gid": 1000,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 8787310,
+      "blocks": 464,
+      "atimeMs": 1572702710199.3943,
+      "mtimeMs": 1572682774830.453,
+      "ctimeMs": 1572702619503.6335,
+      "birthtimeMs": 1572702619503.6335,
+      "atime": "2019-11-02T13:51:50.199Z",
+      "mtime": "2019-11-02T08:19:34.830Z",
+      "ctime": "2019-11-02T13:50:19.504Z",
+      "birthtime": "2019-11-02T13:50:19.504Z"
+    },
+    "4fb63dd2-3706-5d0d-aa82-5ecad5375357": {
+      "id": "4fb63dd2-3706-5d0d-aa82-5ecad5375357",
+      "children": [],
+      "parent": "5f4846c7-4edd-5bb3-b5c4-f1c2a61d156b",
+      "internal": {
+        "contentDigest": "748803cade241cd6fd66016d7d565628",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "de1567c6-4928-5524-974a-5828f597edc5": {
+      "id": "de1567c6-4928-5524-974a-5828f597edc5",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "40487b03070957dcbdd411ec17c08ede",
+        "type": "File",
+        "mediaType": "image/svg+xml",
+        "description": "File \"src/images/bg.svg\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/home/siddharth/Desktop/projects/github projects/portfolio-website/src/images/bg.svg",
+      "relativePath": "bg.svg",
+      "extension": "svg",
+      "size": 345301,
+      "prettySize": "345 kB",
+      "modifiedTime": "2019-11-02T08:07:15.268Z",
+      "accessTime": "2019-11-02T13:51:50.199Z",
+      "changeTime": "2019-11-02T13:50:19.504Z",
+      "birthTime": "2019-11-02T13:50:19.504Z",
+      "root": "/",
+      "dir": "/home/siddharth/Desktop/projects/github projects/portfolio-website/src/images",
+      "base": "bg.svg",
+      "ext": ".svg",
+      "name": "bg",
+      "relativeDirectory": "",
+      "dev": 2058,
+      "mode": 33204,
+      "nlink": 1,
+      "uid": 1000,
+      "gid": 1000,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 8787309,
+      "blocks": 680,
+      "atimeMs": 1572702710199.3943,
+      "mtimeMs": 1572682035267.695,
+      "ctimeMs": 1572702619503.6335,
+      "birthtimeMs": 1572702619503.6335,
+      "atime": "2019-11-02T13:51:50.199Z",
+      "mtime": "2019-11-02T08:07:15.268Z",
+      "ctime": "2019-11-02T13:50:19.504Z",
+      "birthtime": "2019-11-02T13:50:19.504Z"
+    },
+    "SitePage /404/": {
+      "jsonName": "404-22d",
+      "internalComponentName": "Component404",
+      "path": "/404/",
+      "component": "/home/siddharth/Desktop/projects/github projects/portfolio-website/src/pages/404.js",
+      "componentChunkName": "component---src-pages-404-js",
+      "context": {},
+      "pluginCreator___NODE": "fcf4ba1e-7b0e-562a-ac28-e941217a03cb",
+      "pluginCreatorId": "fcf4ba1e-7b0e-562a-ac28-e941217a03cb",
+      "componentPath": "/home/siddharth/Desktop/projects/github projects/portfolio-website/src/pages/404.js",
+      "id": "SitePage /404/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "82138dad769e0e64d0a11660f0898e72",
+        "description": "fcf4ba1e-7b0e-562a-ac28-e941217a03cb",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /": {
+      "jsonName": "index",
+      "internalComponentName": "ComponentIndex",
+      "path": "/",
+      "component": "/home/siddharth/Desktop/projects/github projects/portfolio-website/src/pages/index.js",
+      "componentChunkName": "component---src-pages-index-js",
+      "context": {},
+      "pluginCreator___NODE": "fcf4ba1e-7b0e-562a-ac28-e941217a03cb",
+      "pluginCreatorId": "fcf4ba1e-7b0e-562a-ac28-e941217a03cb",
+      "componentPath": "/home/siddharth/Desktop/projects/github projects/portfolio-website/src/pages/index.js",
+      "id": "SitePage /",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "39a08547872a05caef21434d56d8aec5",
+        "description": "fcf4ba1e-7b0e-562a-ac28-e941217a03cb",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /page-2/": {
+      "jsonName": "page-2-fbc",
+      "internalComponentName": "ComponentPage2",
+      "path": "/page-2/",
+      "component": "/home/siddharth/Desktop/projects/github projects/portfolio-website/src/pages/page-2.js",
+      "componentChunkName": "component---src-pages-page-2-js",
+      "context": {},
+      "pluginCreator___NODE": "fcf4ba1e-7b0e-562a-ac28-e941217a03cb",
+      "pluginCreatorId": "fcf4ba1e-7b0e-562a-ac28-e941217a03cb",
+      "componentPath": "/home/siddharth/Desktop/projects/github projects/portfolio-website/src/pages/page-2.js",
+      "id": "SitePage /page-2/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "9ee8f39d62241e0c507a96cdfd40e860",
+        "description": "fcf4ba1e-7b0e-562a-ac28-e941217a03cb",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /404.html": {
+      "jsonName": "404-html-516",
+      "internalComponentName": "Component404Html",
+      "path": "/404.html",
+      "component": "/home/siddharth/Desktop/projects/github projects/portfolio-website/src/pages/404.js",
+      "componentChunkName": "component---src-pages-404-js",
+      "context": {},
+      "pluginCreator___NODE": "f795702c-a3b8-5a88-88ee-5d06019d44fa",
+      "pluginCreatorId": "f795702c-a3b8-5a88-88ee-5d06019d44fa",
+      "componentPath": "/home/siddharth/Desktop/projects/github projects/portfolio-website/src/pages/404.js",
+      "id": "SitePage /404.html",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "2fc84652caccab794f515a758e0398b5",
+        "description": "f795702c-a3b8-5a88-88ee-5d06019d44fa",
+        "owner": "internal-data-bridge"
+      }
+    }
+  },
+  "status": {
+    "plugins": {},
+    "PLUGINS_HASH": "7a466658472b0ea3d1612717b88f09e6"
+  },
+  "componentDataDependencies": {
+    "nodes": {
+      "Site": [
+        "sq--src-components-layout-js",
+        "sq--src-components-seo-js"
+      ],
+      "5f8460fd-0cf4-51aa-aa60-e2b8de6116f1": [
+        "sq--src-components-image-js"
+      ],
+      "c0b79878-b04f-56de-834b-561880671046": [
+        "sq--src-components-image-js"
+      ]
+    },
+    "connections": {}
+  },
+  "jsonDataPaths": {
+    "dev-404-page-5f9": "920/path---dev-404-page-5-f-9-fab-NZuapzHg3X9TaN1iIixfv1W23E",
+    "sq--src-components-seo-js": 1025518380,
+    "sq--src-components-layout-js": 755544856,
+    "404-22d": "44/path---404-22-d-bce-NZuapzHg3X9TaN1iIixfv1W23E",
+    "index": "173/path---index-6a9-NZuapzHg3X9TaN1iIixfv1W23E",
+    "page-2-fbc": "53/path---page-2-fbc-5a8-NZuapzHg3X9TaN1iIixfv1W23E",
+    "404-html-516": "164/path---404-html-516-62a-NZuapzHg3X9TaN1iIixfv1W23E",
+    "sq--src-components-image-js": 2011440971
+  },
+  "components": {
+    "/home/siddharth/Desktop/projects/github projects/portfolio-website/.cache/dev-404-page.js": {
+      "query": "",
+      "componentPath": "/home/siddharth/Desktop/projects/github projects/portfolio-website/.cache/dev-404-page.js"
+    },
+    "/home/siddharth/Desktop/projects/github projects/portfolio-website/src/pages/404.js": {
+      "query": "",
+      "componentPath": "/home/siddharth/Desktop/projects/github projects/portfolio-website/src/pages/404.js"
+    },
+    "/home/siddharth/Desktop/projects/github projects/portfolio-website/src/pages/index.js": {
+      "query": "",
+      "componentPath": "/home/siddharth/Desktop/projects/github projects/portfolio-website/src/pages/index.js"
+    },
+    "/home/siddharth/Desktop/projects/github projects/portfolio-website/src/pages/page-2.js": {
+      "query": "",
+      "componentPath": "/home/siddharth/Desktop/projects/github projects/portfolio-website/src/pages/page-2.js"
+    }
+  },
+  "staticQueryComponents": {
+    "sq--src-components-image-js": {
+      "name": "homeSiddharthDesktopProjectsGithubProjectsPortfolioWebsiteSrcComponentsImageJs2011440971",
+      "componentPath": "/home/siddharth/Desktop/projects/github projects/portfolio-website/src/components/image.js",
+      "id": "sq--src-components-image-js",
+      "jsonName": "sq--src-components-image-js",
+      "query": "query homeSiddharthDesktopProjectsGithubProjectsPortfolioWebsiteSrcComponentsImageJs2011440971 {\n  placeholderImage: file(relativePath: {eq: \"gatsby-astronaut.png\"}) {\n    childImageSharp {\n      fluid(maxWidth: 300) {\n        ...GatsbyImageSharpFluid\n      }\n    }\n  }\n}\n\nfragment GatsbyImageSharpFluid on ImageSharpFluid {\n  base64\n  aspectRatio\n  src\n  srcSet\n  sizes\n}\n",
+      "hash": 2011440971
+    },
+    "sq--src-components-layout-js": {
+      "name": "SiteTitleQuery",
+      "componentPath": "/home/siddharth/Desktop/projects/github projects/portfolio-website/src/components/layout.js",
+      "id": "sq--src-components-layout-js",
+      "jsonName": "sq--src-components-layout-js",
+      "query": "query SiteTitleQuery {\n  site {\n    siteMetadata {\n      title\n    }\n  }\n}\n",
+      "hash": 755544856
+    },
+    "sq--src-components-seo-js": {
+      "name": "DefaultSEOQuery",
+      "componentPath": "/home/siddharth/Desktop/projects/github projects/portfolio-website/src/components/seo.js",
+      "id": "sq--src-components-seo-js",
+      "jsonName": "sq--src-components-seo-js",
+      "query": "query DefaultSEOQuery {\n  site {\n    siteMetadata {\n      title\n      description\n      author\n    }\n  }\n}\n",
+      "hash": 1025518380
+    }
+  }
+}

@@ -39,7 +39,7 @@ form p {
     margin-bottom: .15rem;
 }
 
-button {
+.button {
     color: #00c99e;
     border-style: solid;
     border-color: #00c99e;
@@ -47,7 +47,7 @@ button {
     background-color: #ffffff;
 }
 
-button:hover {
+.button:hover {
     background-color: #00c99e;
     color: white;
 }
