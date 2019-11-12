@@ -35,7 +35,11 @@
     margin: .2rem;
 }
 
-.button {
+form p {
+    margin-bottom: .15rem;
+}
+
+button {
     color: #00c99e;
     border-style: solid;
     border-color: #00c99e;
@@ -43,7 +47,7 @@
     background-color: #ffffff;
 }
 
-.button:hover {
+button:hover {
     background-color: #00c99e;
     color: white;
 }
